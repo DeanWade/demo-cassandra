@@ -61,3 +61,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.classpath
+*.project
+.settings/
+*.springBeans
+target/
